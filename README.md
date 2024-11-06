@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Full stack-engineer | React specialist | MERN | CSS expert<br>🌱 currently focusing on AI learnings.<br>👯 I’m looking to collaborate on open source projects.
+🔭 Full stack-engineer | React specialist | MERN | CSS expert<br>🌱 Currently focusing on AI learnings.<br>👯 I’m looking to collaborate on open source projects.
 
 
 # 💻 Tech Stack:
